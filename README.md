@@ -188,14 +188,13 @@ def test_function(req: func.HttpRequest, toDoItems: func.Out[func.SqlRow]) -> fu
 
 ## Demo Video
 
-[5-Minute Demo Video Link]
+[Demo Video](https://youtu.be/Xts_jhCJbmY)
 
 The demo video covers:
 1. Function Demonstrations
    - Queue Storage Function
    - SQL Database Function
 2. Code Walkthrough
-3. Key Learnings
 
 ## Project Structure
 - `function_app.py`: Contains both function implementations
